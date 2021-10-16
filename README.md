@@ -5,7 +5,7 @@ For this project, you can use the smart mouse to control the cursor on the scree
 
 **why smartmouse?**
 
-Tranditional mouse need a smooth and solid surface. BUt sometimes, when you want to use your computer and mouse on a sofa, it may be difficult for you to use the mouse, because the sofa is so soft and sometimes rough. Then you may need a smart mouse which can be used in the air, so that you can get rid of the dependence on the solid surface. Maybe sounds a little silly, but that's the originl intention why I conduct this project. 
+Tranditional mouse need a smooth and solid surface. But sometimes, when you want to use your computer and mouse on a sofa, it may be difficult for you to use the mouse, because the sofa is so soft and sometimes rough. Then you may need a smart mouse which can be used in the air, so that you can get rid of the dependence on the solid surface. Maybe sounds a little silly, but that's the originl intention why I conduct this project. 
 
 This smart mouse is designed for non-solid surface, which means you can use it in the air. 
 
