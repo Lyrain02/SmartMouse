@@ -13,10 +13,12 @@ This smart mouse is designed for non-solid surface, which means you can use it i
 ### Hardware
 #### Smart Mouse
 ![image](https://user-images.githubusercontent.com/71683792/137585064-d9e89662-c9ad-4f06-9493-e6558c085deb.png)
+
 Arduino Nano, adxl345, hc-06 module, 3 button, 1 led, 1 resistence, wires and power.
 
 #### Drawing Car
 ![image](https://user-images.githubusercontent.com/71683792/137585076-6dc9d784-2310-434b-984a-dd3b422f529b.png)
+
 Arduino Uno, Uno expansion board, L298N motor drive, 2 motors, 3D printing car materials, wires and power. 
 
 In fact, the car is not designed by meself, and I just bought the materials online and assembled the car. This car is only used to show the control of the smart mouse. It's not the core of the design but an application.
