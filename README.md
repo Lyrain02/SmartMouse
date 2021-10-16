@@ -22,7 +22,7 @@ Arduino Nano, adxl345, hc-06 module, 3 button, 1 led, 1 resistence, wires and po
 
 Arduino Uno, Uno expansion board, L298N motor drive, 2 motors, 3D printing car materials, wires and power. 
 
-In fact, the car is not designed by meself, and I just bought the materials online and assembled the car. This car is only used to show the control of the smart mouse. It's not the core of the design but an application.
+In fact, the car is not designed by myself, and I just bought the materials online and assembled the car. This car is only used to show the control of the smart mouse. It's not the core of the design but an application.
 
 ### Software
 Python is so powerful that I use serial to realize Bluetooth communication between mouse and computer, and pyautogui to control the cursor movement of a computer screen. 
